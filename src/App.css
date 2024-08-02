@@ -1,0 +1,15 @@
+.nav-wrapper{
+  background-color: rgb(18, 19, 18);
+  text-decoration: none;
+}
+.card{
+  cursor: pointer;
+}
+
+
+.slider-container {
+  width: 100%; 
+  padding: 0; 
+  box-sizing: border-box; 
+}
+
